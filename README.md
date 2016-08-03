@@ -31,6 +31,7 @@ Example output:
 ]
 ```
 #### How to install and run
+It needs ```python2.7``` to be installed for a successful run.
 ```bash
 git clone git@github.com:beastea/gaikai-parser.git
 cd gaikai-parser
